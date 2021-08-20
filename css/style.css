@@ -1,0 +1,45 @@
+body{
+    width: 100%;
+    margin: auto;
+}
+
+.main-content{
+    display:flex;
+    justify-content: center;
+}
+.content-left{
+  margin: 30px;
+}
+.content-left img{
+    width: 500px;
+}
+
+h1{
+    font-size: 39px;
+    margin-top: 23px;
+}
+
+h6{
+    padding-top: 30px;
+}
+
+button{
+    padding: 8px;
+    background-color: white;
+    border: 1px solid rgb(34, 33, 33);
+    border-radius: 3px;
+    padding-bottom: 10px;
+}
+
+.specification{
+    margin-bottom: 10px;
+}
+
+.total{
+    margin-top: 40px;
+    width: 300px;
+    font-weight: bold;
+}
+.totalcount{
+    text-align: center;
+}
